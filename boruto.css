@@ -95,10 +95,6 @@ header{
   text-decoration: none;
   color: inherit; 
 }
-footer{
-	position: fixed;
-	width: 100%;	
-}
 .profile .kolom{
 	background-color: black;
 }
